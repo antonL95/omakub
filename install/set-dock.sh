@@ -1,17 +1,13 @@
 # Favorite apps for dock
 apps=(
-	"google-chrome.desktop"
-	"Alacritty.desktop"
-	"code.desktop"
-	"WhatsApp.desktop"
+	"brave-browser.desktop"
 	"signal-desktop.desktop"
+	"phpstorm.desktop"
+	"datagrip.desktop"
 	"spotify.desktop"
 	"typora.desktop"
 	"Zoom.desktop"
 	"pinta_pinta.desktop"
-	"com.github.xournalpp.xournalpp.desktop"
-	"steam.desktop"
-	"1password.desktop"
 	"org.gnome.Settings.desktop"
 	"org.gnome.Nautilus.desktop"
 )
